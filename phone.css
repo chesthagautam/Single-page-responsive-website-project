@@ -1,0 +1,116 @@
+#navbar{
+    flex-direction: column;
+
+}
+#navbar ul li a{
+    font-size: 10px;
+    padding: 0px 4px;
+    
+
+}
+#home{
+    height: 370px;
+    padding: 3px 38px;
+
+}
+#home::before{
+    height: 480px;
+}
+#home p{
+    font-size: 13px;
+}
+/* .freecourse-container{
+
+} */
+#freecourse{
+    flex-direction: column;
+
+}
+.box img{
+    height: 1px;
+    width: 165px;
+
+}
+/* .paidcourse-container{
+
+} */
+#paidcourse{
+    flex-direction: column;
+
+}
+.box1 img{
+    height: 1px;
+    width: 165px;
+}
+#paidcourse1{
+    flex-direction: column;
+
+}
+.box2 img{
+    height: 1px;
+    width: 165px;
+}
+#about-section{
+    
+
+}
+#aboutus img{
+    height: 103px;
+    width: 103px;
+    
+
+}
+#aboutus p{
+    font-size: 13px;
+}
+#certificate-section{
+
+}
+#certificate img{
+     height: 103px;
+     width: 103px;
+     margin-bottom: 30px;
+}
+#certificate img:hover{
+    height: 150px;
+    width: 150px;
+}
+/* #contact-section{
+
+} */
+#contactus{
+    flex-wrap: wrap;
+
+}
+#contactus img{
+    width: 66px;
+}
+#login{
+
+}
+#login-box{
+
+}
+#register{
+
+}
+#register-box{
+
+}
+.first,.first1{
+    font-size: 26px;
+}
+.btn,.btn1,.btn2{
+    font-size: 13px;
+    padding: 4px 8px;
+}
+.btn4{
+    font-size: 13px;
+    
+}
+.btn3{
+    font-size: 13px;
+    margin: 44px;
+    
+    
+}
